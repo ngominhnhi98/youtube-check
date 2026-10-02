@@ -1,0 +1,26 @@
+{
+  "name": "youtube-check",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "google-auth-library": "^9.15.0",
+    "mongoose": "^8.24.1",
+    "next": "16.2.12",
+    "react": "19.2.4",
+    "react-colorful": "^5.8.1",
+    "react-dom": "19.2.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
